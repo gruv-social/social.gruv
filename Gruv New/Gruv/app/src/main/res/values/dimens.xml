@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="topNbottomPadding">55dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="drawerMargin">8dp</dimen>
+    <dimen name="includePadding">1dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+
+
+    <dimen name="icon_top_margin">24dp</dimen>
+    <dimen name="icon_bottom_margin">24dp</dimen>
+    <dimen name="title_bottom_margin">16dp</dimen>
+    <dimen name="field_width_standard">160dp</dimen>
+    <dimen name="text_desc_width">296dp</dimen>
+
+    <dimen name="button_horizontal_margin">8dp</dimen>
+
+    <dimen name="four">4dp</dimen>
+    <dimen name="eight">8dp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="twenty">20dp</dimen>
+    <dimen name="twenty_four">24dp</dimen>
+    <dimen name="twenty_eight">28dp</dimen>
+    <dimen name="thirty_two">32dp</dimen>
+    <dimen name="thirty_six">36dp</dimen>
+    <dimen name="forty">40dp</dimen>
+    <dimen name="forty_four">44dp</dimen>
+    <dimen name="forty_eight">48dp</dimen>
+    <dimen name="fifty_two">52dp</dimen>
+    <dimen name="fifty_six">56dp</dimen>
+    <dimen name="sixty">60dp</dimen>
+    <dimen name="sixty_four">64dp</dimen>
+    <dimen name="sixty_eight">68dp</dimen>
+    <dimen name="seventy_two">72dp</dimen>
+    <dimen name="seventy_six">76dp</dimen>
+    <dimen name="eighty">80dp</dimen>
+</resources>

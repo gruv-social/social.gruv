@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">217904122257-hah5buts0j9j0rb8ihviri9a9phdq3es.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gruv-2c170.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">217904122257</string>
+    <string name="google_api_key" translatable="false">AIzaSyDutd7Z00AG8AwkLzpF0OqL33eCnqK7w8E</string>
+    <string name="google_app_id" translatable="false">1:217904122257:android:cf283f84c11481a4a0f230</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDutd7Z00AG8AwkLzpF0OqL33eCnqK7w8E</string>
+    <string name="google_storage_bucket" translatable="false">gruv-2c170.appspot.com</string>
+    <string name="project_id" translatable="false">gruv-2c170</string>
+</resources>
